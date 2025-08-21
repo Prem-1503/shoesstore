@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../inc"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../uploads"
+		}
+	]
+}
